@@ -1,0 +1,59 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data
+data/embeddings.db
+data/chroma_db/*.chroma
+data/chroma_db/*.db
+data/chroma_db/*.pkl
+data/chroma_db/*.arrow
+data/chroma_db/*.parquet
+!data/chroma_db/.gitkeep
+*.ogg
+*.wav
+*.mp3
+*.png
+!data/generated_images/.gitkeep
+
+# Logs
+*.log
+bot.log
+
+# OS
+.DS_Store
+Thumbs.db
+
