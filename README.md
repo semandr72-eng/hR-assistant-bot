@@ -342,7 +342,7 @@ pytest tests/test_image_generation.py -v
 
 ## 📝 Changelog
 
-### v1.0.0 (2024)
+### v1.0.0 (2026)
 - ✅ Базовая функциональность Telegram бота
 - ✅ RAG с ChromaDB для работы с документами
 - ✅ Голосовые сообщения (STT + TTS)
