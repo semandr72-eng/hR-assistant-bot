@@ -354,11 +354,11 @@ pytest tests/test_image_generation.py -v
 
 ## 👥 Авторы
 
-- NLP-Core-Team
+- semandr72-eng
 
 ## 📄 Лицензия
 
-MIT License - см. файл [LICENSE](LICENSE) для подробностей.
+
 
 ## 🙏 Благодарности
 
